@@ -25,24 +25,20 @@
 - [Dash API Documenation](https://kapeli.com/dash)
 - [Zeal Docs](https://zealdocs.org/)
 - [Termius](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908)
-- [Sublime]
-- [VSCode]
+- [Sublime](https://www.sublimetext.com/)
+- [VSCode](https://code.visualstudio.com/)
 - [Rider - GoLand - PyCharm - PHPStorm](https://jetbrains.com)
+- [Citymapper](https://apps.apple.com/us/app/citymapper-all-your-transport/id469463298)
 
 ## iOS
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Fantastical](https://apps.apple.com/us/app/fantastical-calendar/id718043190)
+- [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807)
+- [Feedly](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)
 
 ## Windows
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
 ## Linux
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 ## Contribute
 
