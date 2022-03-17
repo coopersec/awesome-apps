@@ -5,33 +5,40 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [WatchOS](#watchos)
+- [iOS](#ios)
+- [MacOS](#macos)
+- [Windows](#windows)
+- [Linux](#linux)
 
 ## WatchOS
-
-About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 ## MacOS
 
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## iOS
+
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Windows
 
+- [List item](http://example.com)
+- [List item](http://example.com)
+
 ## Linux
 
-### Subsection
-
 - [List item](http://example.com)
 - [List item](http://example.com)
-
 
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome, if you have any new ideas!
 
 ## License
 
