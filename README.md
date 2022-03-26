@@ -37,6 +37,16 @@
 - [Feedly](https://apps.apple.com/us/app/feedly-smart-news-reader/id396069556)
 
 ## Windows
+- [VoiceAttack](https://voiceattack.com/)
+- [KeyCombinator](https://keycombiner.com/)
+- [GraSSHopper](https://grasshopper.coding.kiwi/)
+- [Codex](https://codex.wordpress.org/Main_Page)
+- [eDux-UI](https://github.com/GitSquared/edex-ui)
+- [WinAuth](https://winauth.github.io/winauth/download.html)
+- [PocketServer](https://pocketserver.org/)
+- [Total-Commander](https://www.ghisler.com/)
+- [Account-Manager-Steam](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html)
+- [WizTree](https://diskanalyzer.com/)
 
 ## Linux
 
