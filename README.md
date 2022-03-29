@@ -47,6 +47,7 @@
 - [Total-Commander](https://www.ghisler.com/)
 - [Account-Manager-Steam](https://www.unknowncheats.me/forum/pc-software/117141-steam-account-manager.html)
 - [WizTree](https://diskanalyzer.com/)
+- [Zeal Documentation Offline](https://zealdocs.org/)
 
 ## Linux
 
